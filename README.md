@@ -1,2 +1,2 @@
 # tap-tank
-Tap Tank desenvolvido em Construct2
+Tap Tank - game desenvolvido na plataforma Construct2
